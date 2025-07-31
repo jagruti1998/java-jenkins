@@ -7,5 +7,7 @@ public class main {
         System.out.println(new Date());
         System.out.println("added one more line to test");
 
+        Student student=new Student();
+        student.hello();
     }
 }
